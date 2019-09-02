@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name         = "UnionPay"
-  s.version      = "3.3.11"
-  s.summary      = "银联官方SDK(3.3.11)"
+  s.version      = "3.3.12"
+  s.summary      = "银联官方SDK(3.3.12)"
   s.description  = <<-DESC
-                   银联官方SDK(3.3.11)，方便大家使用cocoapods导入 
+                   银联官方SDK(3.3.12)，方便大家使用cocoapods导入 
                    DESC
   s.homepage     = "https://github.com/lyuxxx/UnionPay"
   s.license      = "MIT"
